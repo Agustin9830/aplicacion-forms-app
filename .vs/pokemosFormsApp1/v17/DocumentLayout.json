@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAXI PROGRAMA\\NUEVO CURSO C# NIVEL 2\\.vs\\pokemosFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F86D7C9C-C25B-4391-ABA2-A3B3A7CA1B8E}|negocio\\negocio.csproj|d:\\maxi programa\\nuevo curso c# nivel 2\\.vs\\pokemosformsapp1\\negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86D7C9C-C25B-4391-ABA2-A3B3A7CA1B8E}|negocio\\negocio.csproj|solutionrelative:negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3445F94-CA1D-4852-AAAB-D9AE2F4A0BFB}|pokemosFormsApp1\\pokemosFormsApp1.csproj|D:\\MAXI PROGRAMA\\NUEVO CURSO C# NIVEL 2\\.vs\\pokemosFormsApp1\\pokemosformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3445F94-CA1D-4852-AAAB-D9AE2F4A0BFB}|pokemosFormsApp1\\pokemosFormsApp1.csproj|solutionrelative:pokemosformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3445F94-CA1D-4852-AAAB-D9AE2F4A0BFB}|pokemosFormsApp1\\pokemosFormsApp1.csproj|D:\\MAXI PROGRAMA\\NUEVO CURSO C# NIVEL 2\\.vs\\pokemosFormsApp1\\pokemosformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3445F94-CA1D-4852-AAAB-D9AE2F4A0BFB}|pokemosFormsApp1\\pokemosFormsApp1.csproj|solutionrelative:pokemosformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\MAXI PROGRAMA\\NUEVO CURSO C# NIVEL 2\\.vs\\pokemosFormsApp1\\pokemosFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "pokemosFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\MAXI PROGRAMA\\NUEVO CURSO C# NIVEL 2\\.vs\\pokemosFormsApp1\\pokemosFormsApp1\\Form1.cs",
+              "RelativeToolTip": "pokemosFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:00:42.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\MAXI PROGRAMA\\NUEVO CURSO C# NIVEL 2\\.vs\\pokemosFormsApp1\\pokemosFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "pokemosFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\MAXI PROGRAMA\\NUEVO CURSO C# NIVEL 2\\.vs\\pokemosFormsApp1\\pokemosFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "pokemosFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:59:17.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonNegocio.cs",
+              "DocumentMoniker": "D:\\MAXI PROGRAMA\\NUEVO CURSO C# NIVEL 2\\.vs\\pokemosFormsApp1\\negocio\\PokemonNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\PokemonNegocio.cs",
+              "ToolTip": "D:\\MAXI PROGRAMA\\NUEVO CURSO C# NIVEL 2\\.vs\\pokemosFormsApp1\\negocio\\PokemonNegocio.cs",
+              "RelativeToolTip": "negocio\\PokemonNegocio.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:10:23.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

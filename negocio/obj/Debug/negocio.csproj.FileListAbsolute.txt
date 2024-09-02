@@ -1,0 +1,9 @@
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\negocio\bin\Debug\negocio.dll
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\negocio\bin\Debug\negocio.pdb
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\negocio\bin\Debug\dominio.dll
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\negocio\bin\Debug\dominio.pdb
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\negocio\obj\Debug\negocio.csproj.Up2Date
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\negocio\obj\Debug\negocio.dll
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\negocio\obj\Debug\negocio.pdb

@@ -1,0 +1,6 @@
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\dominio\bin\Debug\dominio.dll
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\dominio\bin\Debug\dominio.pdb
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\dominio\obj\Debug\dominio.dll
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\pokemosFormsApp1\dominio\obj\Debug\dominio.pdb
